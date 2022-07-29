@@ -1,4 +1,4 @@
-# Mesh Edit
+# Digital Geometric Processing
 
 ## What is this
 
